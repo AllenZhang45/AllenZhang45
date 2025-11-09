@@ -2,6 +2,8 @@
 
 我是张远，一名热衷于软件开发的程序员。
 
+![访问计数](https://komarev.com/ghpvc/?username=allenzhang45&color=brightgreen&label=访问数)
+
 ![GitHub 连续提交统计](https://github-readme-streak-stats.herokuapp.com/?user=allenzhang45&theme=default&locale=zh)
 
 [![GitHub 统计信息](https://github-readme-stats.vercel.app/api?username=allenzhang45&locale=cn)](https://github.com/anuraghazra/github-readme-stats)

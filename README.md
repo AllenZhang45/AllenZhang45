@@ -6,6 +6,8 @@
 
 I'm Allen Zhang, a passionate software developer.
 
+![Profile Views](https://komarev.com/ghpvc/?username=allenzhang45&color=brightgreen&label=Profile+Views)
+
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=allenzhang45&theme=default)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=allenzhang45)](https://github.com/anuraghazra/github-readme-stats)
