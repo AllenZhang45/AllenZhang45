@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<div align="center"> <img src="https://metrics.lecoq.io/allenzhang45?template=classic&config.timezone=Asia%2FShanghai"> </div>
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=allenzhang45)](https://github.com/allenzhang45/github-readme-stats)
 <!--
